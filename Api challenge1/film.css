@@ -1,0 +1,25 @@
+
+h1{
+    font-size: 16;
+    font-weight:bolder; color:rgb(71, 3, 3)
+}
+
+.col-3{
+    cursor: pointer;
+}
+
+ol{
+    font-size: 14;
+    font-weight: normal;
+    color:rgb(71, 3, 3);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#navbarNavAltMarkup{
+    font-size: 16;
+}
+
+.try{
+    cursor: pointer;
+    font-size:x-large;
+}
